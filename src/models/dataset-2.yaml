@@ -1,0 +1,6 @@
+train: C:/Project/Manggo Detection Model/data/interim/Manggo-Detection-4/train
+val: C:/Project/Manggo Detection Model/data/interim/Manggo-Detection-4/valid
+test: C:/Project/Manggo Detection Model/data/interim/Manggo-Detection-4/test
+
+nc: 2
+names: ['raw_manggo', 'ripe_manggo']
