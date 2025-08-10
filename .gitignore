@@ -210,7 +210,6 @@ temp_labels/
 
 src/data/config.json
 
-data/external/images
 data/external/test
 data/external/train
 data/external/dataset_dict.json
@@ -218,7 +217,6 @@ data/external/dataset_dict.json
 models/manggo-detection-yolo8l-50
 models/manggo-detection-yolo8n-50
 models/manggo-detection-yolo8n-50-16-0.0001-0.001
-models/manggo-detection-yolo8n-100-16-0.0001-0.001
 
 src/models/yolov8n.pt
 src/models/yolo11n.pt
